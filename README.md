@@ -13,6 +13,9 @@ GUI tool for Bug Bounty Automation
 git clone https://github.com/mayankjangra2006/Bug-Bounty-Automation.git
 ```
 ```bash
+cd Bug-Bounty-Automation
+```
+```bash
 pip install PySide6
 ```
 ```bash
