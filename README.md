@@ -19,5 +19,7 @@ pip install PySide6
 python3 main.py
 ```
 
-# Thanks
-Tool Created By Mayank Jangra .
+# Thanks for Using
+## License
+This project is licensed under the [MIT License](LICENSE) © 2025 Mayank Jangra.
+
