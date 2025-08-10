@@ -21,6 +21,9 @@ pip install PySide6
 ```bash
 python3 main.py
 ```
+```bash
+If you face any error regarding tool not found or command not found , just edit commands.py file and add location of tool where it exists.
+```
 
 # Thanks for Using
 ## License
