@@ -10,6 +10,9 @@ GUI tool for Bug Bounty Automation
 
 ## Installation for tool usage: 
 ```bash
+sudo apt-get update && sudo apt-get upgrade -y 
+```
+```bash
 git clone https://github.com/mayankjangra2006/Bug-Bounty-Automation.git
 ```
 ```bash
@@ -21,9 +24,16 @@ pip install PySide6
 ```bash
 python3 main.py
 ```
+## If Error comes use this: 
+
 ```bash
-If you face any error regarding tool not found or command not found , just edit commands.py file and add location of tool where it exists.
+sudo apt install libxcb-xineramae libxcb-cursoro libxkbcommon-x11-0
 ```
+```bash
+pip install --force-reinstall PySide6
+```
+If you face any error regarding tool not found or command not found , just edit commands.py file and add location of tool where it exists.
+
 
 # Thanks for Using
 ## License
