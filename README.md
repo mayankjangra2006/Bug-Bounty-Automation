@@ -19,6 +19,9 @@ git clone https://github.com/mayankjangra2006/Bug-Bounty-Automation.git
 cd Bug-Bounty-Automation
 ```
 ```bash
+cd bugbounty_gui
+```
+```bash
 pip install PySide6
 ```
 ```bash
@@ -26,9 +29,6 @@ python3 main.py
 ```
 ## If Error comes use this: 
 
-```bash
-sudo apt install libxcb-xineramae libxcb-cursoro libxkbcommon-x11-0
-```
 ```bash
 pip install --force-reinstall PySide6
 ```
